@@ -40,7 +40,13 @@
       "id": 7,
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
-      "price": 55
+      "price": 21.99
+    },
+    {
+      "name": "Rose",
+      "image": "https://pyxis.nymag.com/v1/imgs/2c4/f78/15eb2f5e158b68d3eefe81b3d2c6541181-Costa-Farms-Anthurium.rsquare.w600.jpg",
+      "price": 33.39,
+      "id": 9
     }
   ]
 }
